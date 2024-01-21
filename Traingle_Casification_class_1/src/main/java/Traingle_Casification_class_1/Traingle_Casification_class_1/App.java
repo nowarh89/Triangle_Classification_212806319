@@ -29,7 +29,7 @@ class TriangleClassifier {
 	        }else if(isTriangle(a, b, c)){
 	        	triangle= Triangle_Types.Nottriangle;
 	        }else {
-	        	triangle=Triangle_Types.Nottriangle;
+	        	triangle=Triangle_Types.Scalene;
 	        }
 
 	       
